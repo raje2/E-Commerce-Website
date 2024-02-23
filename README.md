@@ -69,4 +69,4 @@ Robust error handling is implemented throughout the API, providing meaningful er
 
 ## Documentation
 
-API endpoints are documented using Swagger/OpenAPI. Access the documentation by running the application and visiting [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
+API endpoints are documented using Swagger/OpenAPI. Access the documentation by running the application and visiting [http://localhost:8080/swagger-ui.html](http://localhost:8080).
